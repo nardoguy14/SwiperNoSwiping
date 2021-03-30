@@ -14,6 +14,7 @@ placing it int he following MAC directory: `/usr/local/bin` For windows ive read
 ```
 python3 -m venv .venv
 . .venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ## Running it
