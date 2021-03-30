@@ -1,0 +1,1 @@
+# SwiperNoSwiping
